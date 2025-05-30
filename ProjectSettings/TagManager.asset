@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Sanitizer
+  - NPC
+  - Colleague
+  - Railing
+  - Object
+  - MovablePC
+  - RoboyArms
+  - RoboyCollider
+  - Surface
+  - Grabable
+  - NavMeshLink
+  - RoomDoor
+  - GlassDoor
+  - Table
+  - Obstacle
+  - Bed
+  - SceneManager
+  - facedetection
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Grabbable
+  - Water
+  - UI
+  - whatIsGround
+  - FoVUI
+  - Interactable
+  - Player
+  - Portrait
+  - PortraitDontRender
+  - PortraitRobotFace
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - XR Simulation
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

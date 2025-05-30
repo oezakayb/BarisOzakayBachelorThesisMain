@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: bc9636605c44e7a41a21d4acd093956a
+timeCreated: 1592555244
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "Deckfl\xE4che_1"
+    100004: "Deckfl\xE4che_2"
+    100006: Drei_Schalen
+    100008: Magazin
+    100010: Schale_1
+    100012: Schale_1_a
+    100014: Schale_1_i
+    100016: Schale_2
+    100018: Schale_2_a
+    100020: Schale_2_i
+    100022: Schale_3
+    100024: Schale_3_a
+    100026: Schale_3_i
+    100028: Spline_Objekt
+    100030: Spline_Objekt_2
+    100032: Spline_Objekt_3
+    100034: Spline_Objekt_4
+    100036: Spline_Objekt_5
+    100038: Spline_Objekt_6
+    100040: Spline_Objekt_7
+    400000: //RootNode
+    400002: "Deckfl\xE4che_1"
+    400004: "Deckfl\xE4che_2"
+    400006: Drei_Schalen
+    400008: Magazin
+    400010: Schale_1
+    400012: Schale_1_a
+    400014: Schale_1_i
+    400016: Schale_2
+    400018: Schale_2_a
+    400020: Schale_2_i
+    400022: Schale_3
+    400024: Schale_3_a
+    400026: Schale_3_i
+    400028: Spline_Objekt
+    400030: Spline_Objekt_2
+    400032: Spline_Objekt_3
+    400034: Spline_Objekt_4
+    400036: Spline_Objekt_5
+    400038: Spline_Objekt_6
+    400040: Spline_Objekt_7
+    2100000: No Name
+    2300000: "Deckfl\xE4che_1"
+    2300002: "Deckfl\xE4che_2"
+    2300004: Magazin
+    2300006: Schale_1_a
+    2300008: Schale_1_i
+    2300010: Schale_2_a
+    2300012: Schale_2_i
+    2300014: Schale_3_a
+    2300016: Schale_3_i
+    3300000: "Deckfl\xE4che_1"
+    3300002: "Deckfl\xE4che_2"
+    3300004: Magazin
+    3300006: Schale_1_a
+    3300008: Schale_1_i
+    3300010: Schale_2_a
+    3300012: Schale_2_i
+    3300014: Schale_3_a
+    3300016: Schale_3_i
+    4300000: Schale_3_a
+    4300002: Schale_3_i
+    4300004: Schale_2_a
+    4300006: Schale_2_i
+    4300008: Schale_1_a
+    4300010: Schale_1_i
+    4300012: Magazin
+    4300014: "Deckfl\xE4che_1"
+    4300016: "Deckfl\xE4che_2"
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
